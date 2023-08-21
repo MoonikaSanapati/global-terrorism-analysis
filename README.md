@@ -17,13 +17,17 @@ The dataset has been obtained from Kaggle's Global Terrorism Database. (https://
 Key Tools:
 
 Python
+
 Jupyter Notebook
+
 Libraries: Pandas, Matplotlib, Seaborn
 
 Insights:
 
 The Middle East, especially Iraq and Afghanistan, witnessed the most terror attacks.
+
 Bombing/Explosion remains the most common type of attack.
+
 A recent surge in kidnappings and hostage situations.
 
 Usage:
