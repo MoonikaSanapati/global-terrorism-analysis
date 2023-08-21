@@ -22,7 +22,10 @@ Jupyter Notebook
 
 Libraries: Pandas, Matplotlib, Seaborn
 
+
+
 Insights:
+
 
 The Middle East, especially Iraq and Afghanistan, witnessed the most terror attacks.
 
@@ -30,10 +33,14 @@ Bombing/Explosion remains the most common type of attack.
 
 A recent surge in kidnappings and hostage situations.
 
+
+
 Usage:
 
 Clone the repository.
+
 Ensure necessary Python libraries are installed.
+
 Open and run the Jupyter Notebook.
 
 
